@@ -1,1 +1,1 @@
-# python-darslar
+Ushbu repositorida python darslariga oyid darslar jamlangan.
